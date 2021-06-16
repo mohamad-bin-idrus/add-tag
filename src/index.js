@@ -12,11 +12,12 @@ import './index.css';
 //import NameForm from './NameForm';
 //import EssayForm from './EssayForm';
 //import FlavorForm from './FlavorForm';
-import Reservation from './Reservation';
+//import Reservation from './Reservation';
+import Calculator from './Calculator';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
-  <Reservation />,
+  <Calculator />,
     document.getElementById('root')
   );
 
